@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Result page</title>
+    <link rel="stylesheet" href="result.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 id="finalScore"></h1>
+      <form>
+        <input
+          type="text"
+          name="username"
+          id="username"
+          placeholder="Username"
+        />
+        <button
+          type="submit"
+          class="btn"
+          id="saveScoreBtn"
+          onclick="saveHighScore(event)"
+          disabled
+        >
+          Save
+        </button>
+      </form>
+      <a href="index2.html"><button>Play Again</button></a>
+      <a href="index.html"><button>Home</button></a>
+    </div>
+    <script src="result.js"></script>
+  </body>
+</html>

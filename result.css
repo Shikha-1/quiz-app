@@ -1,0 +1,36 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  margin-top: 20vh;
+  background: rgb(151, 201, 201);
+}
+.container, form{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-size: 35px;
+}
+button, input{
+width: 150px;
+height: 35px;
+color: rgb(34, 139, 139);
+font-size: 20px;
+border-radius: 5px;
+background: bisque;
+margin: 5px;
+outline: none;
+text-align: center;
+border: 2px solid rgb(20, 70, 70);
+}
+button{
+  font-weight: 600;
+}
+button[disabled]:hover{
+  cursor: not-allowed;
+}

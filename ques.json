@@ -1,0 +1,40 @@
+[{
+  "ques": "In which decade was the AIEEE founded?",
+  "choice1": "1850s",
+  "choice2": "1880s",
+  "choice3": "1930s",
+  "choice4": "1950s",
+  "ans": 2
+},
+{
+  "ques": "OS usually means:",
+  "choice1": "order of significance",
+  "choice2": "open software",
+  "choice3": "operating system",
+  "choice4": "optical sensor",
+  "ans": 3
+},
+{
+  "ques": ".MOV extension refers to which kind of file?",
+  "choice1": "Image file",
+  "choice2": "Audio file",
+  "choice3": "MS office document",
+  "choice4": "Animation/movie file",
+  "ans": 4
+},
+{
+  "ques": "Where is the headquarter of Intel located?",
+  "choice1": "Redmond, Washington",
+  "choice2": "Tuscon, Arizona",
+  "choice3": "Santa clara, California",
+  "choice4": "Richmond, Virginia",
+  "ans": 3
+},
+{
+  "ques": " Who founded hotmail in 1996?",
+  "choice1": "Shwan Fanning",
+  "choice2": "Ada byron lovelace",
+  "choice3": "Ray tomlinson",
+  "choice4": "Sabeer bhatia",
+  "ans": 4
+}]
